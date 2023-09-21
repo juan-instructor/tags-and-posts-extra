@@ -1,12 +1,19 @@
-# Tags and Posts Specifictions
+# Tags and Posts Specifications
+
+## Important
+
+⚠️ Only complete the following design challenge if you have been directed to do so by your
+instructor.
+
+## Design Challenge
 
 1. Fonts you need: (These fonts can be found at Google Fonts)
-   -    Merriweather:
-        -    font-weight: Bold (700)
-   -    Poppins:
-        -    font-weight: Regular (400) and semiBold (600)
-   
+    - Merriweather:
+        - font-weight: Bold (700)
+    - Poppins:
+        - font-weight: Regular (400) and semiBold (600)
 2. Use your fonts accordingly and where you need them
+
 ```CSS
     body {
         font-family: 'Poppins', sans-serif;
@@ -19,12 +26,11 @@
     }
 ```
 
-
 3. Do not forget to link your fonts in the `<head></head>` element.
 
-4. Tags design should have a `:hover` effect and a mouse pointer for each element inside the ***Tags*** design. See 'modeling' tag as what to do for `:hover`.
+4. Tags design should have a `:hover` effect and a mouse pointer for each element inside
+   the **_Tags_** design. See 'modeling' tag as what to do for `:hover`.
 
 5. The same applies to 'Recent Posts' design.
-
 
 6. Everything you need is inside `/design` and `/images` folder.
