@@ -22,7 +22,7 @@
 
 3. Do not forget to link your fonts in the `<head></head>` element.
 
-4. Tags design should have a `:hover`` effect and a mouse pointer for each element inside the ***Tags*** design. See 'modeling' tag as what to do for `:hover`.
+4. Tags design should have a `:hover` effect and a mouse pointer for each element inside the ***Tags*** design. See 'modeling' tag as what to do for `:hover`.
 
 5. The same applies to 'Recent Posts' design.
 
